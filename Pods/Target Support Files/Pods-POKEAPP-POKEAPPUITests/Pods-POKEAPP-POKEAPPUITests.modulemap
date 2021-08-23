@@ -1,0 +1,6 @@
+framework module Pods_POKEAPP_POKEAPPUITests {
+  umbrella header "Pods-POKEAPP-POKEAPPUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
